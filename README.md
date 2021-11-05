@@ -21,10 +21,11 @@ Kelas   : TI.21.C.5
 
 * Saya membuat source code dari perintah diatas (sesuai gambar), seperti dibawah ini :
 
-    `n=int(input("Masukkan Nilai N : "))
 
-    import random
+    ``n=int(input("Masukkan Nilai N : "))``
 
-    for x in list(range(1, n+1, 1)):
-    print(f"Data ke: {x} ->",random.uniform(0, 0.5))`
+    ``import random``
+
+    ``for x in list(range(1, n+1, 1)):``
+        ``print(f"Data ke: {x} ->",random.uniform(0, 0.5))``
 
