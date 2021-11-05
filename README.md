@@ -17,4 +17,4 @@ Kelas   : TI.21.C.5
 
 * Pada tugas kali ini saya diminta dosen untuk mengerjakan tugas latihan1.py, seperti gambar dibawah ini :
 
-![Gambar 1](P7_labpy03/ss)
+![Gambar 1](ss/Tugas1.png)
