@@ -7,4 +7,13 @@ Repository ini dibuat untuk memenuhi Tugas Bahasa Pemrograman - Pertemuan 7 - Pr
 Pada pertemuan 7 ini saya diberi tugas oleh Dosen untuk mempelajari dan membuat program sederhana dengan Bahasa Pemrograman Python
 
 
-t
+Nama    : Bagas Ari Pradana
+
+NIM     : 312110485
+
+Kelas   : TI.21.C.5
+
+# Tugas Latihan 1
+
+* Pada tugas kali ini saya diminta dosen untuk mengerjakan tugas latihan1.py, seperti gambar dibawah ini :
+
