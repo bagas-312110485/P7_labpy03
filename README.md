@@ -21,6 +21,7 @@ Kelas   : TI.21.C.5
 
 * Saya membuat source code dari perintah diatas (sesuai gambar), seperti dibawah ini :
 
+
     n=int(input("Masukkan Nilai N : "))
 
     import random
