@@ -20,10 +20,11 @@ Kelas   : TI.21.C.5
 ![Gambar 1](ss/Tugas1.png)
 
 * Saya membuat source code dari perintah diatas (sesuai gambar), seperti dibawah ini :
-
+    ```` Python
         n=int(input("Masukkan Nilai N : "))
 
         import random
 
         for x in list(range(1, n+1, 1)):
             print(f"Data ke: {x} ->",random.uniform(0, 0.5))
+    ````
